@@ -1,2 +1,4 @@
 # skin
-<p>Mes skins principaux</p>
+<title>Mes skins osu : </title>
+
+_    DarKiKi 『Seoul v9.2022』    _ :
